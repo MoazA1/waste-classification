@@ -21,7 +21,7 @@ Incorrectly sorted waste contaminates recycling streams and increases the amount
 - **Access:** downloaded from Kaggle by `kagglehub`; a Kaggle account or API authentication may be required depending on the runtime.
 - **License:** Open Data Commons Open Database License (ODbL) 1.0, as listed for the Kaggle dataset. Users should also follow Kaggle's terms of use.
 
-The notebook calculates the actual image count, class frequencies, percentages, image dimensions, and unreadable-file count from the downloaded dataset. Those inspected results should be used in the proposal because dataset versions and third-party descriptions may disagree slightly.
+The notebook calculates the actual image count, class frequencies, percentages, image dimensions, and unreadable-file count from the downloaded dataset.
 
 ## Predeclared experimental plan
 
