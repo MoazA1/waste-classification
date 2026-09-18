@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.py[cod]
+
+# The dataset is downloaded from Kaggle and must not be committed.
+data/
+
+# Uncomment if generated figures and tables should not be versioned.
+# artifacts/
