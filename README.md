@@ -12,7 +12,6 @@ Incorrectly sorted waste contaminates recycling streams and increases the amount
 - **Intended use:** assist a smart bin, conveyor-routing mechanism, or human sorting operator.
 - **Operational decision:** select the appropriate waste-processing stream or request manual review.
 
-This is a proof of concept for single-item classification. Images containing several overlapping waste objects would require object detection or segmentation and are outside this phase's scope.
 
 ## Dataset
 
